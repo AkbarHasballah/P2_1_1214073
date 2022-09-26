@@ -10,7 +10,8 @@ namespace P2_1_1214073
     {
         static void Main(string[] args)
         {
-            //Tugas oertama (percobaan 1.1) aritmathic operator
+            //Tugas pertama  aritmathic operator
+            //Percobaan 1.1
            int angkaPertama = int.Parse(Console.ReadLine());
             int angkaKedua = int.Parse(Console.ReadLine());
             int a = angkaPertama + angkaKedua;
